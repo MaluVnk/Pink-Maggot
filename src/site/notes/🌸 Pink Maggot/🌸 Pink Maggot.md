@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/pink-maggot/pink-maggot/"}
+{"dg-publish":true,"permalink":"/🌸 Pink Maggot/🌸 Pink Maggot/"}
 ---
 
