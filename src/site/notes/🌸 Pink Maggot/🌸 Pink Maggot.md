@@ -2,4 +2,4 @@
 {"dg-publish":true,"permalink":"/🌸 Pink Maggot/🌸 Pink Maggot/","tags":["gardenEntry"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
-[[1. Literatura/1. Filosofía/Filosofía - Plan de Estudio\|Filosofía - Plan de Estudio]]
+![Be kind.jpg](/img/user/2.%20Im%C3%A1genes/DECORACI%C3%93NJPG/Be%20kind.jpg)
